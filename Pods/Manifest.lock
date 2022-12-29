@@ -1,0 +1,58 @@
+PODS:
+  - AACarousel (1.1.1)
+  - Alamofire (4.0.1)
+  - DLRadioButton (1.4.12)
+  - DropDown (2.3.13)
+  - EZLoadingActivity (1.01)
+  - FSCalendar (2.8.0)
+  - IQKeyboardManagerSwift (6.2.1)
+  - Kingfisher (5.3.1)
+  - SDWebImage (5.0.1):
+    - SDWebImage/Core (= 5.0.1)
+  - SDWebImage/Core (5.0.1)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - AACarousel
+  - Alamofire (~> 4.0.0)
+  - DLRadioButton (~> 1.4)
+  - DropDown
+  - EZLoadingActivity
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - SDWebImage (~> 5.0)
+  - SwiftGifOrigin
+  - SwiftyJSON (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AACarousel
+    - Alamofire
+    - DLRadioButton
+    - DropDown
+    - EZLoadingActivity
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SDWebImage
+    - SwiftGifOrigin
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AACarousel: e0dbd2d3153c56c36df8aa282553f20fc88e132b
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  EZLoadingActivity: edd7e387e5197b116ce2cccb3fd747ababc2a510
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 92cbfe74365cb2826e8a94a5c38d78a64e7f4b56
+
+COCOAPODS: 1.5.3

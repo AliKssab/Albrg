@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of albrg
+
+Variant: albrg-127E727C-CE44-410C-B213-F82DD7886F4F.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12], [device: iPhone11,4, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone9,2, os-version: 12], and [device: iPhone10,6, os-version: 12]
+App + On Demand Resources size: 7.9 MB compressed, 16.6 MB uncompressed
+App size: 7.9 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-5C5C9096-B03A-4FCB-AFE2-E45EA174D1A5.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad8,8, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad8,6, os-version: 12], and [device: iPad8,2, os-version: 12]
+App + On Demand Resources size: 7.9 MB compressed, 16.6 MB uncompressed
+App size: 7.9 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-648DAB8F-18A8-4834-B323-08A58D892F32.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12] and [device: iPhone7,1, os-version: 11]
+App + On Demand Resources size: 7.9 MB compressed, 16.6 MB uncompressed
+App size: 7.9 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-99FA6189-3F07-4949-9A20-F2487223BF92.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 7.9 MB compressed, 16.6 MB uncompressed
+App size: 7.9 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-BE918687-ED85-4D07-B5D0-6317A27412B8.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone9,3, os-version: 12], and [device: iPhone10,1, os-version: 12]
+App + On Demand Resources size: 7.8 MB compressed, 16.6 MB uncompressed
+App size: 7.8 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-BF8704F3-678C-4B46-9CC7-59A9BC0869B6.ipa
+Supported variant descriptors: [device: iPad4,4, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad7,5, os-version: 12], and [device: iPad6,12, os-version: 12]
+App + On Demand Resources size: 7.9 MB compressed, 16.6 MB uncompressed
+App size: 7.9 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg-F39223F5-1352-4E36-9460-FD034934D147.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 12], [device: iPhone8,1, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone6,2, os-version: 12], and [device: iPhone8,4, os-version: 12]
+App + On Demand Resources size: 7.8 MB compressed, 16.6 MB uncompressed
+App size: 7.8 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: albrg.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 8.4 MB compressed, 16.6 MB uncompressed
+App size: 8.4 MB compressed, 16.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
